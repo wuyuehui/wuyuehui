@@ -6,8 +6,8 @@
 - 🎵喜欢听歌
 - 📚喜欢学习
 
-[![wuyuehui's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyuehui&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![wuyuehui's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuyuehui&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wuyuehui's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyuehui&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![wuyuehui's github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyuehui&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wuyuehui)
